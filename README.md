@@ -71,9 +71,9 @@ T = 1 \, kg \times 29 \, cm = 29 \, kg·cm
 ## 5. Case for 2 kg Load with Gears
 For **2 kg**:
 
-- Joint 3: \( 2 \times 4 = 8 \, kg·cm \)  
-- Joint 2: \( 2 \times 14 = 28 \, kg·cm \)  
-- Joint 1: \( 2 \times 29 = 58 \, kg·cm \)  
+- Joint 3: \( 2 * 4 = 8 \, kg·cm \)  
+- Joint 2: \( 2 * 14 = 28 \, kg·cm \)  
+- Joint 1: \( 2 * 29 = 58 \, kg·cm \)  
 
 If the servo torque is not enough, we can use **gear reduction** to increase torque.  
 Example: A 2:1 gear ratio doubles the torque but halves the speed.
